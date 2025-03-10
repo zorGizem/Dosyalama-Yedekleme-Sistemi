@@ -1,0 +1,10 @@
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-30 21:51:20.594779
+İşlem Bitiş: 2024-12-30 21:51:29.060777
+İşlem Türü: CHANGE_USERNAME
+Durum Kodu: SUCCESS
+Eski Kullanıcı Adı: Gamze
+Yeni Kullanıcı Adı: Melis
+İşlem Detayı: Gamze adı Melis olarak değiştirildi.
+Hata Detayı: N/A
+------------------------

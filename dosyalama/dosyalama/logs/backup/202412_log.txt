@@ -1,0 +1,66 @@
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-30 23:29:39.025044
+İşlem Bitiş: 2024-12-30 23:29:39.028043
+İşlem Türü: BACKUP
+Durum Kodu: SUCCESS
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/dosyalama/uploads/Melis/20241230_232928_20241230_224220_aLFABE.txt
+Yedek Dizin: backups\Melis\20241230_232928_20241230_224220_aLFABE.txt
+Veri Boyutu: 42 bytes
+İşlem Detayı: Yedekleme işlemi başarılı
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 13:47:40.825502
+İşlem Bitiş: 2024-12-31 13:47:40.831295
+İşlem Türü: BACKUP
+Durum Kodu: SUCCESS
+Kaynak Dizin: uploads\Melis\20241230_232928_20241230_224220_aLFABE.txt
+Yedek Dizin: backups\Melis\20241230_232928_20241230_224220_aLFABE.txt
+Veri Boyutu: 42 bytes
+İşlem Detayı: Yedekleme işlemi başarılı
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 13:48:59.568269
+İşlem Bitiş: 2024-12-31 13:48:59.569226
+İşlem Türü: BACKUP
+Durum Kodu: SUCCESS
+Kaynak Dizin: uploads\Melis\20241230_232928_20241230_224220_aLFABE.txt
+Yedek Dizin: backups\Melis\20241230_232928_20241230_224220_aLFABE.txt
+Veri Boyutu: 42 bytes
+İşlem Detayı: Yedekleme işlemi başarılı
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 13:49:56.511899
+İşlem Bitiş: 2024-12-31 13:49:56.513872
+İşlem Türü: BACKUP
+Durum Kodu: SUCCESS
+Kaynak Dizin: uploads\Melis\20241230_232928_20241230_224220_aLFABE.txt
+Yedek Dizin: backups\Melis\20241230_232928_20241230_224220_aLFABE.txt
+Veri Boyutu: 42 bytes
+İşlem Detayı: Yedekleme işlemi başarılı
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 13:49:56.512838
+İşlem Bitiş: 2024-12-31 13:49:56.518756
+İşlem Türü: BACKUP
+Durum Kodu: SUCCESS
+Kaynak Dizin: uploads\Melis\20241231_134948_ch07.pdf
+Yedek Dizin: backups\Melis\20241231_134948_ch07.pdf
+Veri Boyutu: 355320 bytes
+İşlem Detayı: Yedekleme işlemi başarılı
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 13:49:56.512838
+İşlem Bitiş: 2024-12-31 13:49:56.523758
+İşlem Türü: BACKUP
+Durum Kodu: SUCCESS
+Kaynak Dizin: uploads\Melis\20241231_134926_ch02.pdf
+Yedek Dizin: backups\Melis\20241231_134926_ch02.pdf
+Veri Boyutu: 3168256 bytes
+İşlem Detayı: Yedekleme işlemi başarılı
+Hata Detayı: N/A
+------------------------

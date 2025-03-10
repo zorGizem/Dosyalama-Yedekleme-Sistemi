@@ -1,0 +1,549 @@
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-30 20:05:37.565970
+İşlem Bitiş: 2024-12-30 20:05:37.567482
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: FAILED
+Erişim Tipi: login
+İşlem Detayı: Kullanıcı bulunamadı
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gamze
+İşlem Başlangıç: 2024-12-30 20:06:04.153959
+İşlem Bitiş: 2024-12-30 20:06:04.439614
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 20:06:34.213229
+İşlem Bitiş: 2024-12-30 20:06:34.501409
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Ebrar
+İşlem Başlangıç: 2024-12-30 20:21:23.432095
+İşlem Bitiş: 2024-12-30 20:21:23.716641
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gamze
+İşlem Başlangıç: 2024-12-30 21:28:24.253162
+İşlem Bitiş: 2024-12-30 21:28:24.495736
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: FAILED
+Erişim Tipi: login
+İşlem Detayı: Yanlış Şifre Girişi
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gamze
+İşlem Başlangıç: 2024-12-30 21:39:38.060822
+İşlem Bitiş: 2024-12-30 21:39:38.297824
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-30 22:12:49.245568
+İşlem Bitiş: 2024-12-30 22:12:49.485717
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-30 22:13:45.968910
+İşlem Bitiş: 2024-12-30 22:13:46.202085
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: FAILED
+Erişim Tipi: login
+İşlem Detayı: Yanlış Şifre Girişi
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-30 22:13:51.232808
+İşlem Bitiş: 2024-12-30 22:13:51.464352
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-30 22:17:05.322351
+İşlem Bitiş: 2024-12-30 22:17:05.566407
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis 
+İşlem Başlangıç: 2024-12-30 22:23:08.424595
+İşlem Bitiş: 2024-12-30 22:23:08.659185
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:23:45.441045
+İşlem Bitiş: 2024-12-30 22:23:45.682545
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:43:08.872802
+İşlem Bitiş: 2024-12-30 22:43:09.110349
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: FAILED
+Erişim Tipi: login
+İşlem Detayı: Yanlış Şifre Girişi
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:43:13.277232
+İşlem Bitiş: 2024-12-30 22:43:13.510246
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:48:02.756163
+İşlem Bitiş: 2024-12-30 22:48:02.993288
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:53:09.972625
+İşlem Bitiş: 2024-12-30 22:53:10.216629
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 23:06:31.957403
+İşlem Bitiş: 2024-12-30 23:06:32.198012
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 23:08:50.488393
+İşlem Bitiş: 2024-12-30 23:08:50.727261
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-30 23:12:28.527092
+İşlem Bitiş: 2024-12-30 23:12:28.770629
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-30 23:23:25.682266
+İşlem Bitiş: 2024-12-30 23:23:25.922041
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-30 23:29:12.428780
+İşlem Bitiş: 2024-12-30 23:29:12.664808
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 23:54:54.960725
+İşlem Bitiş: 2024-12-30 23:54:55.220270
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-30 23:58:05.959599
+İşlem Bitiş: 2024-12-30 23:58:06.211985
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-30 23:59:42.747236
+İşlem Bitiş: 2024-12-30 23:59:43.000283
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: FAILED
+Erişim Tipi: login
+İşlem Detayı: Yanlış Şifre Girişi
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-30 23:59:46.941636
+İşlem Bitiş: 2024-12-30 23:59:47.185689
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:02:53.528193
+İşlem Bitiş: 2024-12-31 00:02:53.781334
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:05:07.666393
+İşlem Bitiş: 2024-12-31 00:05:07.938499
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:09:40.611506
+İşlem Bitiş: 2024-12-31 00:09:40.848740
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:11:14.937458
+İşlem Bitiş: 2024-12-31 00:11:15.170072
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:15:11.659418
+İşlem Bitiş: 2024-12-31 00:15:11.901272
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: FAILED
+Erişim Tipi: login
+İşlem Detayı: Yanlış Şifre Girişi
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:15:16.188119
+İşlem Bitiş: 2024-12-31 00:15:16.427804
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:18:00.646083
+İşlem Bitiş: 2024-12-31 00:18:00.880995
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:25:29.024306
+İşlem Bitiş: 2024-12-31 00:25:29.262417
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:27:00.017530
+İşlem Bitiş: 2024-12-31 00:27:00.257180
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: FAILED
+Erişim Tipi: login
+İşlem Detayı: Yanlış Şifre Girişi
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:27:04.736604
+İşlem Bitiş: 2024-12-31 00:27:04.980205
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:28:22.157366
+İşlem Bitiş: 2024-12-31 00:28:22.393675
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:29:19.856571
+İşlem Bitiş: 2024-12-31 00:29:20.095086
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:32:21.570424
+İşlem Bitiş: 2024-12-31 00:32:21.809508
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 00:33:05.631767
+İşlem Bitiş: 2024-12-31 00:33:05.864320
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-31 00:33:31.199001
+İşlem Bitiş: 2024-12-31 00:33:31.433571
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-31 00:38:37.333840
+İşlem Bitiş: 2024-12-31 00:38:37.574311
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:45:18.288363
+İşlem Bitiş: 2024-12-31 00:45:18.529016
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:08:46.970939
+İşlem Bitiş: 2024-12-31 13:08:47.239982
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:14:20.289370
+İşlem Bitiş: 2024-12-31 13:14:20.578680
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:17:00.090792
+İşlem Bitiş: 2024-12-31 13:17:00.377327
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:20:06.037516
+İşlem Bitiş: 2024-12-31 13:20:06.332043
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:23:28.335082
+İşlem Bitiş: 2024-12-31 13:23:28.628794
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:24:34.739733
+İşlem Bitiş: 2024-12-31 13:24:35.028068
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:28:16.365016
+İşlem Bitiş: 2024-12-31 13:28:16.665842
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:32:17.948029
+İşlem Bitiş: 2024-12-31 13:32:18.246474
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:34:29.691020
+İşlem Bitiş: 2024-12-31 13:34:29.995093
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:35:01.646249
+İşlem Bitiş: 2024-12-31 13:35:01.944340
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:38:51.319793
+İşlem Bitiş: 2024-12-31 13:38:51.619945
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:40:37.292325
+İşlem Bitiş: 2024-12-31 13:40:37.581598
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:45:47.046223
+İşlem Bitiş: 2024-12-31 13:45:47.336696
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Gizem
+İşlem Başlangıç: 2024-12-31 13:46:18.627371
+İşlem Bitiş: 2024-12-31 13:46:18.926582
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 13:47:02.682294
+İşlem Bitiş: 2024-12-31 13:47:02.982264
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 13:47:25.039818
+İşlem Bitiş: 2024-12-31 13:47:25.340479
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 15:20:29.694067
+İşlem Bitiş: 2024-12-31 15:20:29.978134
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-31 15:27:14.152135
+İşlem Bitiş: 2024-12-31 15:27:14.445120
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-31 15:28:10.566068
+İşlem Bitiş: 2024-12-31 15:28:10.848626
+İşlem Türü: PROFILE_ACCESS
+Durum Kodu: SUCCESS
+Erişim Tipi: login
+İşlem Detayı: N/A
+Hata Detayı: N/A
+------------------------

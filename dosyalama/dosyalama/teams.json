@@ -1,0 +1,22 @@
+{
+    "Melis ": [
+        "Gizem",
+        "Deniz",
+        "Ebrar"
+    ],
+    "Gizem": [
+        "Melis "
+    ],
+    "Deniz": [
+        "Melis ",
+        "Melis"
+    ],
+    "Ebrar": [
+        "Melis ",
+        "Melis"
+    ],
+    "Melis": [
+        "Deniz",
+        "Ebrar"
+    ]
+}

@@ -1,0 +1,4 @@
+Kullanıcı  Adı:Gizem      Şifre:$2b$12$YIUfSzQ5Dh2.IigfNBIbJ.UoGVn2Q7uPlmesXI1gApGskjeklws8G     Kullanıcı Tipi:Sistem Yöneticisi
+Kullanıcı  Adı:Melis      Şifre:$2b$12$Qe74wOZTQfuPNOno/Ia7ieOrWE3Z.KNhMU5hfbFgBJrIVmWjNl7yK     Kullanıcı Tipi:Bireysel Kullanıcı
+Kullanıcı  Adı:Deniz      Şifre:$2b$12$aUP3fKe1P0/7GHjkKyZR5O0A/zq1Ff1Hp1A/J8BOYS6EF5TO3lnNi     Kullanıcı Tipi:Bireysel Kullanıcı
+Kullanıcı  Adı:Ebrar      Şifre:$2b$12$Mk/C0tqPysQs35O2XZj4uudDKrRfuVO4RgYylLkzfhBoMRC109uUW     Kullanıcı Tipi:Bireysel Kullanıcı

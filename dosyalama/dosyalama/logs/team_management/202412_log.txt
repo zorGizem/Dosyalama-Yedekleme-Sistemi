@@ -1,0 +1,18 @@
+Kullanıcı: Melis 
+İşlem Başlangıç: 2024-12-30 22:23:11.953314
+İşlem Bitiş: 2024-12-30 22:23:30.319577
+İşlem Türü: TEAM_MANAGEMENT
+Durum Kodu: SUCCESS
+Detaylar: N/A
+İşlem Detayı: Takımlar Başarıyla oluşturuldu.
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 15:22:18.130842
+İşlem Bitiş: 2024-12-31 15:26:10.432405
+İşlem Türü: TEAM_MANAGEMENT
+Durum Kodu: SUCCESS
+Detaylar: N/A
+İşlem Detayı: Takımlar Başarıyla oluşturuldu.
+Hata Detayı: N/A
+------------------------

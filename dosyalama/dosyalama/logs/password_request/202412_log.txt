@@ -1,0 +1,45 @@
+Kullanıcı: Gamze
+İşlem Başlangıç: 2024-12-30 20:06:14.551319
+İşlem Bitiş: 2024-12-30 20:06:14.551319
+İşlem Türü: PASSWORD_REQUEST
+Durum Kodu: SUCCESS
+Talep Nedeni: Unuttum
+İşlem Detayı: Şifre değişiklik talebi başarıyla oluşturuldu ve yöneticiye iletildi
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 20:06:43.318246
+İşlem Bitiş: 2024-12-30 20:06:43.318246
+İşlem Türü: PASSWORD_REQUEST
+Durum Kodu: SUCCESS
+Talep Nedeni: Unuttum
+İşlem Detayı: Şifre değişiklik talebi başarıyla oluşturuldu ve yöneticiye iletildi
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Ebrar
+İşlem Başlangıç: 2024-12-30 20:21:33.756270
+İşlem Bitiş: 2024-12-30 20:21:33.756270
+İşlem Türü: PASSWORD_REQUEST
+Durum Kodu: SUCCESS
+Talep Nedeni: Unuttum
+İşlem Detayı: Şifre değişiklik talebi başarıyla oluşturuldu ve yöneticiye iletildi
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-30 21:51:41.276245
+İşlem Bitiş: 2024-12-30 21:51:41.276245
+İşlem Türü: PASSWORD_REQUEST
+Durum Kodu: SUCCESS
+Talep Nedeni: unuttum
+İşlem Detayı: Şifre değişiklik talebi başarıyla oluşturuldu ve yöneticiye iletildi
+Hata Detayı: N/A
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:45:26.341908
+İşlem Bitiş: 2024-12-31 00:45:26.341908
+İşlem Türü: PASSWORD_REQUEST
+Durum Kodu: SUCCESS
+Talep Nedeni: unuttum
+İşlem Detayı: Şifre değişiklik talebi başarıyla oluşturuldu ve yöneticiye iletildi
+Hata Detayı: N/A
+------------------------

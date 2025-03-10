@@ -1,0 +1,198 @@
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:42:23.978666
+İşlem Bitiş: 2024-12-30 22:42:40.924258
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:42:23.978666
+İşlem Bitiş: 2024-12-30 22:42:44.077893
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:42:23.978666
+İşlem Bitiş: 2024-12-30 22:42:44.735217
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:42:23.978666
+İşlem Bitiş: 2024-12-30 22:42:44.836867
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:42:23.978666
+İşlem Bitiş: 2024-12-30 22:42:44.943080
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:42:23.978666
+İşlem Bitiş: 2024-12-30 22:42:45.054758
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:42:23.978666
+İşlem Bitiş: 2024-12-30 22:42:45.161556
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:42:23.978666
+İşlem Bitiş: 2024-12-30 22:42:45.379252
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:43:16.342543
+İşlem Bitiş: 2024-12-30 22:43:32.019848
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:43:16.342543
+İşlem Bitiş: 2024-12-30 22:43:34.719168
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:48:07.280094
+İşlem Bitiş: 2024-12-30 22:48:24.378376
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:48:07.280094
+İşlem Bitiş: 2024-12-30 22:48:42.361184
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:48:07.280094
+İşlem Bitiş: 2024-12-30 22:48:53.291879
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:53:13.040647
+İşlem Bitiş: 2024-12-30 22:53:31.115736
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 22:53:13.040647
+İşlem Bitiş: 2024-12-30 22:53:38.303369
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Deniz
+İşlem Başlangıç: 2024-12-30 23:06:35.658480
+İşlem Bitiş: 2024-12-30 23:07:07.070093
+İşlem Türü: DOC_SHARING
+Durum Kodu: FAILED
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/dosyalama/uploads/Deniz/20241230_224220_aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: None bytes
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:25:32.256529
+İşlem Bitiş: 2024-12-31 00:25:45.464725
+İşlem Türü: DOC_SHARING
+Durum Kodu: SUCCESS
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/dosyalama/uploads/Deniz/20241230_224220_aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: 42 bytes
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:27:08.532553
+İşlem Bitiş: 2024-12-31 00:27:19.873178
+İşlem Türü: DOC_SHARING
+Durum Kodu: SUCCESS
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/dosyalama/uploads/Deniz/20241230_224220_aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: 42 bytes
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:28:29.782954
+İşlem Bitiş: 2024-12-31 00:28:40.521621
+İşlem Türü: DOC_SHARING
+Durum Kodu: SUCCESS
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/dosyalama/uploads/Deniz/20241230_224220_aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: 42 bytes
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:29:22.827324
+İşlem Bitiş: 2024-12-31 00:29:35.663828
+İşlem Türü: DOC_SHARING
+Durum Kodu: SUCCESS
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/dosyalama/uploads/Deniz/20241230_224220_aLFABE.txt
+Hedef Kullanıcı: N/A
+Veri Boyutu: 42 bytes
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 00:32:37.840299
+İşlem Bitiş: 2024-12-31 00:32:37.877636
+İşlem Türü: DOC_SHARING
+Durum Kodu: SUCCESS
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/dosyalama/uploads/Deniz/20241230_224220_aLFABE.txt
+Hedef Kullanıcı: Gizem, Deniz, Ebrar
+Veri Boyutu: 42 bytes
+------------------------
+Kullanıcı: Melis
+İşlem Başlangıç: 2024-12-31 15:27:00.745394
+İşlem Bitiş: 2024-12-31 15:27:00.783737
+İşlem Türü: DOC_SHARING
+Durum Kodu: SUCCESS
+Kaynak Dizin: C:/Users/fatih/OneDrive/Masaüstü/2024-2025/işletimsistemelr/ch02.pdf
+Hedef Kullanıcı: Deniz, Ebrar
+Veri Boyutu: 3168256 bytes
+------------------------
